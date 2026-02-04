@@ -1,0 +1,12 @@
+flask
+flask_sqlalchemy
+flask_bcrypt
+flask_login
+flask_table
+flask_wtf
+email_validator
+numpy
+pandas
+sklearn
+flask_mail
+pillow
